@@ -1,0 +1,28 @@
+F:\task route .Net VS\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.exe
+F:\task route .Net VS\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.deps.json
+F:\task route .Net VS\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.runtimeconfig.json
+F:\task route .Net VS\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.dll
+F:\task route .Net VS\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.pdb
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.AssemblyInfoInputs.cache
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.AssemblyInfo.cs
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.csproj.CoreCompileInputs.cache
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.dll
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\refint\My_Exam.dll
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.pdb
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.genruntimeconfig.cache
+F:\task route .Net VS\My_Exam\My_Exam\obj\Debug\net6.0\ref\My_Exam.dll
+F:\Route .NET\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.exe
+F:\Route .NET\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.deps.json
+F:\Route .NET\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.runtimeconfig.json
+F:\Route .NET\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.dll
+F:\Route .NET\My_Exam\My_Exam\bin\Debug\net6.0\My_Exam.pdb
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.AssemblyInfoInputs.cache
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.AssemblyInfo.cs
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.csproj.CoreCompileInputs.cache
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.dll
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\refint\My_Exam.dll
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.pdb
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\My_Exam.genruntimeconfig.cache
+F:\Route .NET\My_Exam\My_Exam\obj\Debug\net6.0\ref\My_Exam.dll
